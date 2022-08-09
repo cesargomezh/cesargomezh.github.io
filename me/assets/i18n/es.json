@@ -110,9 +110,16 @@
       ]
     },
     "portfolio": {
-      "title": "Contribuciones",
+      "title": "Contribuciones y aportes a la comunidad",
       "footnote": "* Miembro del equipo de documentación para <a href='https://github.com/orgs/vitejs/teams/docs-es/members' target='_blank'>Vite.js como organización</a>",
       "paragraph": [
+        {
+          "icon": "./assets/img/vue-fb.jpg",
+          "title": "Comunidad Vue Latinoamérica",
+          "link": "https://github.com/vitejs/docs-es",
+          "descriptionColor": "white",
+          "description": "Administrador de la comunidad en español de Vue LATAM en Facebook con más de 3000 miembros que comparten conocimientos sobre el framework y el ecosistema."
+        },
         {
           "icon": "./assets/img/vite.png",
           "title": "Documentación de Vite.js en Español",
@@ -207,8 +214,8 @@
           "description": "Una buena taza de café motiva a crear código de calidad, es el combustible del desarrollador."
         },
         {
-          "header": "Marvel Comics",
-          "description": "Entre la lectura, un sano esparcimiento es leer la ideas heroicas del ya fallecido Stan Lee."
+          "header": "Marvel",
+          "description": "Total hype por las fases 5 y 6 del UCM."
         },
         {
           "header": "Nuevos frameworks",

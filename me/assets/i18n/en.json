@@ -114,10 +114,16 @@
       "footnote": "* Docs team member for <a href='https://github.com/orgs/vitejs/teams/docs-es/members' target='_blank'>Vite.js Organization</a>",
       "paragraph": [
         {
-          "icon": "./assets/img/vite.png",
-          "title": "Vite.js Spanish Docs",
+          "icon": "./assets/img/vue-fb.jpg",
+          "title": "Vue Latinoamerica Community",
           "link": "https://github.com/vitejs/docs-es",
-          "description": "Oficial Spanish translation of Vite.js documentation *"
+          "description": "Community Facebook group admin, 3000+ members sharing their knowledge and experience with Vue.js and ecosystem."
+        },
+        {
+          "icon": "./assets/img/vuetify.png",
+          "title": "vue-fixed-columns-vuetify-15",
+          "link": "https://github.com/mrcego/vue-fixed-columns-vuetify-15",
+          "description": "A simple directive for Vuetify 1.5. Enable sticky columns in VDataTable component"
         },
         {
           "icon": "./assets/img/vuetify.png",
@@ -207,8 +213,8 @@
           "description": "A good cup of coffee motivate you to create high quality code, it is the fuel of the developer."
         },
         {
-          "header": "Marvel Comics",
-          "description": "A healthy and funny hobby is reading the heroic ideas of the late Stan Lee."
+          "header": "Marvel",
+          "description": "Hyping with whole MCU and phases 5/6."
         },
         {
           "header": "New frameworks",
